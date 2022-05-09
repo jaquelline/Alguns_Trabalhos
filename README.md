@@ -3,3 +3,6 @@ Neste repositório encontram-se alguns dos trabalhos realizados ao longo da jorn
 Não adiciono aqui código do modelo precipitação, e outros que fui envolvida pois são soluções de empresas mesmo,
 o crivist também é, pertence hoje a secretaria de segurança de São Paulo e a uma empresa, visto que é escalável.
 TiledMatrix é público e todos podem não só usar como contribuir. O crivist foi desenvolvido em cima do geodjango.
+
+PS: Eu disse que estava comentado, mas tem poucos comentários o crivist e a tiledmatrix.
+Mas já podem ter uma noção da minha programação.
